@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advancedpowermanagement",
+  "name": "Advanced Power Management",
+  "description": "This mod adds a Charging Bench, Battery Station, Storage Monitor, and Adjustable Transformer to Industrial Craft 2. Charge or drain up to 12 items at once, and easily automate your IC2 power generation and storage systems!",
+  "version": "${version}",
+  "mcversion": "1.7.10",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-power-management",
+  "updateUrl": "",
+  "authorList": [ "Pantheis", "Tallinu", "Zuxelus" ],
+  "credits": "Remastered by Zuxelus, originally created by Pantheis, Tallinu, Drashian and Starlight.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [ "IC2" ]
+}
+]
